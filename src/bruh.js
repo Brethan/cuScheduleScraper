@@ -1,5 +1,4 @@
 const rp = require('request-promise');
-const fs = require("fs");
 
 
 async function getDepartmentCourseCodes(dept, under = true) {
@@ -33,16 +32,14 @@ async function getAllCourseCodes(departments) {
 		let classes = [];
 		try {
 			classes = classes.concat(await getDepartmentCourseCodes(str.toUpperCase()));
-			// process.stdout.write(`Undergrad: ${str} 👍`);
 		} catch (error) {
-			// process.stdout.write(`Undergrad: ${str} 👎`);
+			// Department has no undergrad courses
 		}
 
 		try {
 			classes = classes.concat(await getDepartmentCourseCodes(str.toUpperCase(), false));
-			// process.stdout.write(`; Grad: ${str} 👍\n`);
 		} catch (error) {
-			// process.stdout.write(`; Grad: ${str} 👎\n`);
+			// Department has no grad courses
 		}
 
 		if (classes.length)
@@ -88,18 +85,10 @@ async function getAllDepartments() {
 	return departments;
 }
 
-const main = async () => {
+module.exports = async () => {
+	// departments[]
 	const departments = await getAllDepartments();
-	const copy = [...departments];
+	// [department: ["####"]]
+	return await getAllCourseCodes(departments);
 
-	console.log(departments);
-	console.log("Done finding departments");
-	const deptCodes = await getAllCourseCodes(departments);
-	console.log("Done finding course codes");
-
-	console.log(copy.filter(str => !departments.includes(str)));
-
-	fs.writeFileSync("./dept_codes.json", JSON.stringify(deptCodes, null, 4));
 };
-
-main();

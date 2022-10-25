@@ -8,7 +8,7 @@ async function cleanup(page, browser) {
 }
 
 
-const deptCodes = require("./dept_codes.json");
+const deptCodes = require("../data/dept_codes.json");
 
 /** @type {string[][]} */
 const sections = [];
