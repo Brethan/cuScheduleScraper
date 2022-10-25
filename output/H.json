@@ -1,0 +1,178 @@
+[
+    [
+        "HLTH",
+        "HLTH 1000 A",
+        "DEC-14-2022",
+        "14:00",
+        "180",
+        "DEC-14-2022",
+        "17:00",
+        "IN PERS",
+        "Fixed Duration"
+    ],
+    [
+        "HLTH",
+        "HLTH 1001 A",
+        "DEC-16-2022",
+        "14:00",
+        "180",
+        "DEC-16-2022",
+        "17:00",
+        "ON LINE",
+        "Fixed Duration"
+    ],
+    [
+        "HLTH",
+        "HLTH 3303 A",
+        "DEC-20-2022",
+        "19:00",
+        "180",
+        "DEC-20-2022",
+        "22:00",
+        "IN PERS",
+        "Fixed Duration"
+    ],
+    [
+        "HLTH",
+        "HLTH 3403 A",
+        "DEC-21-2022",
+        "09:00",
+        "120",
+        "DEC-21-2022",
+        "11:00",
+        "IN PERS",
+        "Fixed Duration"
+    ],
+    [
+        "HLTH",
+        "HLTH 3503 A",
+        "DEC-13-2022",
+        "21:00",
+        "180",
+        "DEC-15-2022",
+        "21:00",
+        "ON LINE",
+        "Fixed Within Range"
+    ],
+    [
+        "HLTH",
+        "HLTH 4401 A",
+        "DEC-16-2022",
+        "14:00",
+        "180",
+        "DEC-16-2022",
+        "17:00",
+        "ON LINE",
+        "Fixed Duration"
+    ],
+    [
+        "HIST",
+        "HIST 1002 A",
+        "DEC-18-2022",
+        "14:00",
+        "180",
+        "DEC-18-2022",
+        "17:00",
+        "IN PERS",
+        "Fixed Duration"
+    ],
+    [
+        "HIST",
+        "HIST 1900 B",
+        "DEC-16-2022",
+        "19:00",
+        "120",
+        "DEC-16-2022",
+        "21:00",
+        "IN PERS",
+        "Fixed Duration"
+    ],
+    [
+        "HIST",
+        "HIST 2308 A",
+        "DEC-21-2022",
+        "14:00",
+        "120",
+        "DEC-21-2022",
+        "16:00",
+        "IN PERS",
+        "Fixed Duration"
+    ],
+    [
+        "HIST",
+        "HIST 2902 A",
+        "DEC-13-2022",
+        "14:00",
+        "120",
+        "DEC-13-2022",
+        "16:00",
+        "IN PERS",
+        "Fixed Duration"
+    ],
+    [
+        "HIST",
+        "HIST 3009 A",
+        "DEC-15-2022",
+        "14:00",
+        "120",
+        "DEC-15-2022",
+        "16:00",
+        "IN PERS",
+        "Fixed Duration"
+    ],
+    [
+        "HIST",
+        "HIST 4210 A",
+        "DEC-16-2022",
+        "14:00",
+        "120",
+        "DEC-16-2022",
+        "16:00",
+        "IN PERS",
+        "Fixed Duration"
+    ],
+    [
+        "HUMM",
+        "HUMS 1000 A",
+        "DEC-12-2022",
+        "09:00",
+        "180",
+        "DEC-12-2022",
+        "12:00",
+        "IN PERS",
+        "Fixed Duration"
+    ],
+    [
+        "HUMM",
+        "HUMS 2101 A",
+        "DEC-14-2022",
+        "14:00",
+        "180",
+        "DEC-14-2022",
+        "17:00",
+        "IN PERS",
+        "Fixed Duration"
+    ],
+    [
+        "HUMM",
+        "HUMS 3102 A",
+        "DEC-19-2022",
+        "09:00",
+        "180",
+        "DEC-19-2022",
+        "12:00",
+        "IN PERS",
+        "Fixed Duration"
+    ],
+    [
+        "HUMM",
+        "HUMS 3200 A",
+        "DEC-16-2022",
+        "14:00",
+        "180",
+        "DEC-16-2022",
+        "17:00",
+        "ON LINE",
+        "Fixed Duration"
+    ]
+]

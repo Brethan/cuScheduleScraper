@@ -1,0 +1,101 @@
+[
+    [
+        "HUMM",
+        "RELI 1710 A",
+        "DEC-10-2022",
+        "19:00",
+        "90",
+        "DEC-10-2022",
+        "20:30",
+        "ON LINE",
+        "Fixed Duration"
+    ],
+    [
+        "HUMM",
+        "RELI 1731 A",
+        "DEC-21-2022",
+        "14:00",
+        "120",
+        "DEC-21-2022",
+        "16:00",
+        "IN PERS",
+        "Fixed Duration"
+    ],
+    [
+        "HUMM",
+        "RELI 2200 A",
+        "DEC-14-2022",
+        "14:00",
+        "120",
+        "DEC-14-2022",
+        "16:00",
+        "IN PERS",
+        "Fixed Duration"
+    ],
+    [
+        "HUMM",
+        "RELI 2220 A",
+        "DEC-20-2022",
+        "09:00",
+        "120",
+        "DEC-20-2022",
+        "11:00",
+        "IN PERS",
+        "Fixed Duration"
+    ],
+    [
+        "HUMM",
+        "RELI 2310 A",
+        "DEC-18-2022",
+        "09:00",
+        "150",
+        "DEC-18-2022",
+        "11:30",
+        "IN PERS",
+        "Fixed Duration"
+    ],
+    [
+        "HUMM",
+        "RELI 2736 A",
+        "DEC-16-2022",
+        "14:00",
+        "150",
+        "DEC-16-2022",
+        "16:30",
+        "IN PERS",
+        "Fixed Duration"
+    ],
+    [
+        "HUMM",
+        "RELI 2800 A",
+        "DEC-17-2022",
+        "10:00",
+        "",
+        "DEC-18-2022",
+        "10:00",
+        "ON LINE",
+        "Range"
+    ],
+    [
+        "HUMM",
+        "RELI 2840 A",
+        "DEC-21-2022",
+        "19:00",
+        "150",
+        "DEC-21-2022",
+        "21:30",
+        "ON LINE",
+        "Fixed Duration"
+    ],
+    [
+        "HUMM",
+        "RELI 3732 A",
+        "DEC-19-2022",
+        "19:00",
+        "120",
+        "DEC-19-2022",
+        "21:00",
+        "IN PERS",
+        "Fixed Duration"
+    ]
+]

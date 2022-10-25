@@ -1,0 +1,233 @@
+[
+    [
+        "IND",
+        "IDES 1000 A",
+        "DEC-17-2022",
+        "09:00",
+        "90",
+        "DEC-17-2022",
+        "10:30",
+        "ON LINE",
+        "Fixed Duration"
+    ],
+    [
+        "IND",
+        "IDES 2101 A",
+        "DEC-17-2022",
+        "19:00",
+        "120",
+        "DEC-17-2022",
+        "21:00",
+        "IN PERS",
+        "Fixed Duration"
+    ],
+    [
+        "IND",
+        "IDES 3502 A",
+        "DEC-16-2022",
+        "19:00",
+        "120",
+        "DEC-16-2022",
+        "21:00",
+        "IN PERS",
+        "Fixed Duration"
+    ],
+    [
+        "BIT",
+        "IRM 1005 A",
+        "DEC-15-2022",
+        "09:00",
+        "120",
+        "DEC-15-2022",
+        "11:00",
+        "IN PERS",
+        "Fixed Duration"
+    ],
+    [
+        "BIT",
+        "IRM 1008 A",
+        "DEC-12-2022",
+        "14:00",
+        "120",
+        "DEC-12-2022",
+        "16:00",
+        "IN PERS",
+        "Fixed Duration"
+    ],
+    [
+        "BIT",
+        "IRM 3006 A",
+        "DEC-12-2022",
+        "09:00",
+        "60",
+        "DEC-12-2022",
+        "10:00",
+        "IN PERS",
+        "Fixed Duration"
+    ],
+    [
+        "BIT",
+        "IRM 4002 A",
+        "DEC-13-2022",
+        "14:00",
+        "120",
+        "DEC-13-2022",
+        "16:00",
+        "IN PERS",
+        "Fixed Duration"
+    ],
+    [
+        "BIT",
+        "IMD 1000 A",
+        "DEC-19-2022",
+        "09:00",
+        "180",
+        "DEC-19-2022",
+        "12:00",
+        "IN PERS",
+        "Fixed Duration"
+    ],
+    [
+        "BIT",
+        "IMD 4008 A",
+        "DEC-21-2022",
+        "14:00",
+        "180",
+        "DEC-21-2022",
+        "17:00",
+        "IN PERS",
+        "Fixed Duration"
+    ],
+    [
+        "BIT",
+        "ITEC 1005 A",
+        "DEC-15-2022",
+        "09:00",
+        "120",
+        "DEC-15-2022",
+        "11:00",
+        "IN PERS",
+        "Fixed Duration"
+    ],
+    [
+        "BIT",
+        "ITEC 1100 A",
+        "DEC-19-2022",
+        "09:00",
+        "180",
+        "DEC-19-2022",
+        "12:00",
+        "IN PERS",
+        "Fixed Duration"
+    ],
+    [
+        "BIT",
+        "ITEC 2400 A",
+        "DEC-16-2022",
+        "09:00",
+        "180",
+        "DEC-16-2022",
+        "12:00",
+        "IN PERS",
+        "Fixed Duration"
+    ],
+    [
+        "BIT",
+        "ITEC 2401 A",
+        "DEC-19-2022",
+        "14:00",
+        "180",
+        "DEC-19-2022",
+        "17:00",
+        "IN PERS",
+        "Fixed Duration"
+    ],
+    [
+        "BIT",
+        "ITEC 5111 F",
+        "DEC-15-2022",
+        "14:00",
+        "90",
+        "DEC-15-2022",
+        "15:30",
+        "ON LINE",
+        "Fixed Duration"
+    ],
+    [
+        "BIT",
+        "ITEC 5113 F",
+        "DEC-21-2022",
+        "14:00",
+        "120",
+        "DEC-21-2022",
+        "16:00",
+        "IN PERS",
+        "Fixed Duration"
+    ],
+    [
+        "BIT",
+        "ITEC 5114 F",
+        "DEC-16-2022",
+        "14:00",
+        "120",
+        "DEC-16-2022",
+        "16:00",
+        "IN PERS",
+        "Fixed Duration"
+    ],
+    [
+        "IEIS",
+        "ISCI 2000 W",
+        "DEC-12-2022",
+        "14:00",
+        "180",
+        "DEC-12-2022",
+        "17:00",
+        "ON LINE",
+        "Fixed Duration"
+    ],
+    [
+        "INAF",
+        "INAF 5224 F",
+        "DEC-12-2022",
+        "12:00",
+        "",
+        "DEC-15-2022",
+        "23:58",
+        "ON LINE",
+        "Range"
+    ],
+    [
+        "IPIE",
+        "IPIS 5106 F",
+        "DEC-16-2022",
+        "19:00",
+        "120",
+        "DEC-16-2022",
+        "21:00",
+        "IN PERS",
+        "Fixed Duration"
+    ],
+    [
+        "IPIP",
+        "IPIS 5304 F",
+        "DEC-12-2022",
+        "12:00",
+        "",
+        "DEC-15-2022",
+        "23:58",
+        "ON LINE",
+        "Range"
+    ],
+    [
+        "IPIE",
+        "IPIS 5509 A",
+        "DEC-21-2022",
+        "09:00",
+        "180",
+        "DEC-21-2022",
+        "12:00",
+        "IN PERS",
+        "Fixed Duration"
+    ]
+]

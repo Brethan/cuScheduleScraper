@@ -1,0 +1,57 @@
+[
+    [
+        "TSE",
+        "TSES 2305 A",
+        "DEC-10-2022",
+        "00:01",
+        "65",
+        "DEC-22-2022",
+        "23:58",
+        "ON LINE",
+        "Fixed Within Range"
+    ],
+    [
+        "TSE",
+        "TSES 2305 V",
+        "DEC-10-2022",
+        "00:01",
+        "65",
+        "DEC-22-2022",
+        "23:58",
+        "ON LINE",
+        "Fixed Within Range"
+    ],
+    [
+        "TSE",
+        "TSES 3001 A",
+        "DEC-19-2022",
+        "09:00",
+        "180",
+        "DEC-19-2022",
+        "12:00",
+        "ON LINE",
+        "Fixed Duration"
+    ],
+    [
+        "TSE",
+        "TSES 3001 W",
+        "DEC-19-2022",
+        "09:00",
+        "180",
+        "DEC-19-2022",
+        "12:00",
+        "ON LINE",
+        "Fixed Duration"
+    ],
+    [
+        "TSE",
+        "TSES 4007 A",
+        "DEC-21-2022",
+        "09:00",
+        "120",
+        "DEC-21-2022",
+        "11:00",
+        "IN PERS",
+        "Fixed Duration"
+    ]
+]
