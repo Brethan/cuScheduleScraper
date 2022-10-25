@@ -59,11 +59,11 @@ const main = async () => {
     const args = process.argv.slice(2);
     const results = await searchCourses(args[0] || "sysc", args[1] || "3310", args[2] || "202230");
     if (!results || !results.length) {
-        console.log("Couldn't find shit bro, sorry >.<");
+        console.log("Couldn't find anything bro");
         return;
     }   
 
-    console.log("emscuseme why are you running");
+    console.log("DEBUG: 1");
     const courses_raw = results[0][0].split("\n");
     courses_raw.forEach((str, i, arr) => {arr[i] = str.trim()});
 
