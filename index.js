@@ -6,7 +6,6 @@ const url = "https://central.carleton.ca/prod/bwysched.p_select_term?wsea_code=E
  * @param {string} dept 
  * @param {string} code 
  * @param {string} term
- * @returns 
  */
 const searchCourses = async (dept, code, term) => {
     console.time("Time")
@@ -37,23 +36,22 @@ const searchCourses = async (dept, code, term) => {
     }), page.waitForNavigation()]);
 
     // await page.screenshot({path: "stage2.png"});
-    let results;
+    let results;    
     try {
         /** @type {string[][]} */
         results = await page.$eval('table tbody', tbody => [...tbody.rows].map(r => [...r.cells].map(c => c.innerText)))
         results.forEach((val, i, arr) => {arr[i] = [val[0].trim()]})
-        console.log(results);
+        // console.log(results);
         results.splice(0, 3)
     } catch (error) {
-        results = null
     }
+
     await page.close()
     await browser.close();
     console.timeEnd("Time")
 
-    
     return results?.filter(val => val[0] !== "");
-    
+     
 }
 
 const main = async () => {
@@ -61,15 +59,29 @@ const main = async () => {
     const args = process.argv.slice(2);
     const results = await searchCourses(args[0] || "sysc", args[1] || "3310", args[2] || "202230");
     if (!results || !results.length) {
-        console.log("Couldn't find shit bro, sorry :(");
+        console.log("Couldn't find shit bro, sorry >.<");
         return;
     }   
 
+    console.log("emscuseme why are you running");
     const courses_raw = results[0][0].split("\n");
     courses_raw.forEach((str, i, arr) => {arr[i] = str.trim()});
 
     const courses = courses_raw.filter((str) => str !== "");
-    console.log(courses);
+    /** @type {string[]} */
+    let section = [];
+    /** @type {string[][]} */
+    const sections = [];
+    for (const [i, str] of courses.entries()) {
+        if (i === 0 || (i > 0 && str.includes("\t"))) {
+            if (section.length > 0) sections.push(section)
+            section = [str];
+            continue;
+        }
+        
+        section.push(str);
+    }
+    console.log(sections);
 }
 
 main();
