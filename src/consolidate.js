@@ -1,6 +1,6 @@
 const { readdirSync, writeFileSync } = require("fs");
-const { join } = require("path");
-const dir = join(__dirname, "./output/");
+const { join, resolve } = require("path");
+const dir = join(__dirname.replace("src", ""), "./output/");
 
 const output = {};
 
@@ -40,4 +40,4 @@ for (const json of readdirSync(dir).filter(file => file.endsWith(".json"))) {
 
 console.log(c);
 
-writeFileSync("./output/more_output/consolidate.json", JSON.stringify(output, null, 4));
+writeFileSync(join(dir, "more_output/exams.json"), JSON.stringify(output, null, 4));

@@ -7,7 +7,7 @@
         "180",
         "DEC-14-2022",
         "17:00",
-        "IN PERS",
+        "FH",
         "Fixed Duration"
     ],
     [
@@ -29,18 +29,7 @@
         "180",
         "DEC-20-2022",
         "22:00",
-        "IN PERS",
-        "Fixed Duration"
-    ],
-    [
-        "HLTH",
-        "HLTH 3403 A",
-        "DEC-21-2022",
-        "09:00",
-        "120",
-        "DEC-21-2022",
-        "11:00",
-        "IN PERS",
+        "AT 102",
         "Fixed Duration"
     ],
     [
@@ -73,7 +62,7 @@
         "180",
         "DEC-18-2022",
         "17:00",
-        "IN PERS",
+        "FH",
         "Fixed Duration"
     ],
     [
@@ -84,7 +73,7 @@
         "120",
         "DEC-16-2022",
         "21:00",
-        "IN PERS",
+        "FH",
         "Fixed Duration"
     ],
     [
@@ -95,7 +84,7 @@
         "120",
         "DEC-21-2022",
         "16:00",
-        "IN PERS",
+        "AT 301",
         "Fixed Duration"
     ],
     [
@@ -106,7 +95,7 @@
         "120",
         "DEC-13-2022",
         "16:00",
-        "IN PERS",
+        "FH",
         "Fixed Duration"
     ],
     [
@@ -117,7 +106,7 @@
         "120",
         "DEC-15-2022",
         "16:00",
-        "IN PERS",
+        "AT 301",
         "Fixed Duration"
     ],
     [
@@ -128,7 +117,7 @@
         "120",
         "DEC-16-2022",
         "16:00",
-        "IN PERS",
+        "TB 342",
         "Fixed Duration"
     ],
     [
@@ -139,7 +128,7 @@
         "180",
         "DEC-12-2022",
         "12:00",
-        "IN PERS",
+        "AH",
         "Fixed Duration"
     ],
     [
@@ -150,7 +139,7 @@
         "180",
         "DEC-14-2022",
         "17:00",
-        "IN PERS",
+        "PA 133",
         "Fixed Duration"
     ],
     [
@@ -161,7 +150,7 @@
         "180",
         "DEC-19-2022",
         "12:00",
-        "IN PERS",
+        "PA 303",
         "Fixed Duration"
     ],
     [

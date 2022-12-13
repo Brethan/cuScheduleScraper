@@ -84,7 +84,7 @@ const sleep = async (n) => {
 }
 
 async function main() {
-	for (let i = 5; i < sections.length; i += 5) {
+	for (let i = 0; i < sections.length; i += 5) {
 		let max = ((i + 5) > sections.length) ? null : (i + 5);
 		const departments = sections.slice(i, max);
 		const exams = await Promise.all([

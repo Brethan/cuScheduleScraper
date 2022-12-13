@@ -7,7 +7,7 @@
         "120",
         "DEC-16-2022",
         "16:00",
-        "IN PERS",
+        "AP 236",
         "Fixed Duration"
     ],
     [
@@ -18,7 +18,7 @@
         "120",
         "DEC-19-2022",
         "11:00",
-        "IN PERS",
+        "TB 217",
         "Fixed Duration"
     ],
     [
@@ -29,7 +29,7 @@
         "120",
         "DEC-12-2022",
         "16:00",
-        "IN PERS",
+        "NI 4020",
         "Fixed Duration"
     ],
     [
@@ -40,7 +40,7 @@
         "120",
         "DEC-21-2022",
         "16:00",
-        "IN PERS",
+        "TB 446",
         "Fixed Duration"
     ],
     [
@@ -51,7 +51,7 @@
         "180",
         "DEC-20-2022",
         "12:00",
-        "IN PERS",
+        "TB 206",
         "Fixed Duration"
     ],
     [
@@ -62,7 +62,7 @@
         "180",
         "DEC-16-2022",
         "17:00",
-        "IN PERS",
+        "NI 4050",
         "Fixed Duration"
     ],
     [
@@ -95,7 +95,7 @@
         "90",
         "DEC-12-2022",
         "10:30",
-        "IN PERS",
+        "TB 446",
         "Fixed Duration"
     ]
 ]

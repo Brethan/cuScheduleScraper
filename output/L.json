@@ -7,7 +7,7 @@
         "120",
         "DEC-14-2022",
         "16:00",
-        "IN PERS",
+        "TB 204",
         "Fixed Duration"
     ],
     [
@@ -18,7 +18,7 @@
         "120",
         "DEC-16-2022",
         "11:00",
-        "IN PERS",
+        "TB 206",
         "Fixed Duration"
     ],
     [
@@ -29,7 +29,7 @@
         "120",
         "DEC-20-2022",
         "16:00",
-        "IN PERS",
+        "TB 230",
         "Fixed Duration"
     ],
     [
@@ -40,7 +40,7 @@
         "120",
         "DEC-14-2022",
         "11:00",
-        "IN PERS",
+        "AH",
         "Fixed Duration"
     ],
     [
@@ -62,7 +62,7 @@
         "120",
         "DEC-16-2022",
         "16:00",
-        "IN PERS",
+        "AH",
         "Fixed Duration"
     ],
     [
@@ -73,7 +73,7 @@
         "120",
         "DEC-14-2022",
         "21:00",
-        "IN PERS",
+        "ON LINE",
         "Fixed Duration"
     ],
     [
@@ -84,7 +84,7 @@
         "120",
         "DEC-17-2022",
         "21:00",
-        "IN PERS",
+        "FH",
         "Fixed Duration"
     ],
     [
@@ -95,7 +95,7 @@
         "180",
         "DEC-19-2022",
         "17:00",
-        "IN PERS",
+        "AT 102",
         "Fixed Duration"
     ],
     [
@@ -139,7 +139,7 @@
         "150",
         "DEC-20-2022",
         "11:30",
-        "IN PERS",
+        "AT 301",
         "Fixed Duration"
     ],
     [
@@ -161,7 +161,7 @@
         "180",
         "DEC-10-2022",
         "12:00",
-        "IN PERS",
+        "AT 301",
         "Fixed Duration"
     ],
     [
@@ -172,7 +172,7 @@
         "180",
         "DEC-12-2022",
         "22:00",
-        "IN PERS",
+        "FH",
         "Fixed Duration"
     ],
     [
@@ -183,7 +183,7 @@
         "180",
         "DEC-12-2022",
         "22:00",
-        "IN PERS",
+        "FH",
         "Fixed Duration"
     ],
     [
@@ -194,7 +194,7 @@
         "150",
         "DEC-11-2022",
         "16:30",
-        "IN PERS",
+        "NI 4010",
         "Fixed Duration"
     ],
     [
@@ -249,7 +249,7 @@
         "150",
         "DEC-12-2022",
         "16:30",
-        "IN PERS",
+        "AT 302",
         "Fixed Duration"
     ],
     [
@@ -260,7 +260,7 @@
         "120",
         "DEC-15-2022",
         "16:00",
-        "IN PERS",
+        "AT 302",
         "Fixed Duration"
     ],
     [
@@ -304,7 +304,7 @@
         "120",
         "DEC-17-2022",
         "16:00",
-        "IN PERS",
+        "NI 4010",
         "Fixed Duration"
     ],
     [
@@ -326,7 +326,7 @@
         "120",
         "DEC-11-2022",
         "11:00",
-        "IN PERS",
+        "AT 301",
         "Fixed Duration"
     ],
     [
@@ -348,7 +348,7 @@
         "120",
         "DEC-15-2022",
         "21:00",
-        "IN PERS",
+        "AH",
         "Fixed Duration"
     ],
     [
@@ -359,7 +359,7 @@
         "120",
         "DEC-10-2022",
         "11:00",
-        "IN PERS",
+        "NI 4020",
         "Fixed Duration"
     ],
     [
@@ -374,6 +374,17 @@
         "Fixed Duration"
     ],
     [
+        "LAWS",
+        "LAWS 4801 A",
+        "DEC-15-2022",
+        "09:00",
+        "180",
+        "DEC-15-2022",
+        "12:00",
+        "ON LINE",
+        "Fixed Duration"
+    ],
+    [
         "LALS",
         "LING 2007 A",
         "DEC-16-2022",
@@ -381,7 +392,7 @@
         "180",
         "DEC-16-2022",
         "17:00",
-        "IN PERS",
+        "FH",
         "Fixed Duration"
     ],
     [
@@ -403,7 +414,7 @@
         "180",
         "DEC-19-2022",
         "17:00",
-        "IN PERS",
+        "AT 101",
         "Fixed Duration"
     ],
     [
@@ -414,7 +425,7 @@
         "180",
         "DEC-19-2022",
         "12:00",
-        "IN PERS",
+        "AT 101",
         "Fixed Duration"
     ]
 ]
